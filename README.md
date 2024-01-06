@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmoreau21&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="lmoreau21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-troph&theme=darky"><img src="https://github-profile-trophy.vercel.app/?username=lmoreau21" alt="lmoreau21" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-troph&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=lmoreau21" alt="lmoreau21" /></a> </p>
 
 - 🔭 I’m working on [when & wear](https://github.com/Tofu-Noodle-Soup/when-wear)
 
